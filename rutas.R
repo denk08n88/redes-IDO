@@ -1,4 +1,4 @@
-#Aquí describimos los vértices, aristas dirigidas y pesos.
+#Aquí describimos los nodos y arcos.
 nodos <- c("A","B","C","D","E","F","G","H","I","J")
 desde <- c("C","A","A","B","D","E","C","F","F","H","F") 
 hasta <- c("A","B","E","D","E","C","F","G","H","I","J")
